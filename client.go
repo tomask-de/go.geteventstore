@@ -16,7 +16,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/jetbasrawi/go.geteventstore/atom"
+	"github.com/tomask-de/go.geteventstore/atom"
 )
 
 // Response encapsulates HTTP responses from the server.

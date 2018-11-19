@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jetbasrawi/go.geteventstore/atom"
+	"github.com/tomask-de/go.geteventstore/atom"
 )
 
 // StreamReader provides methods for reading events and event metadata.

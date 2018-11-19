@@ -8,7 +8,7 @@ package goes_test
 import (
 	"reflect"
 
-	"github.com/jetbasrawi/go.geteventstore"
+	"github.com/tomask-de/go.geteventstore"
 	. "gopkg.in/check.v1"
 )
 
